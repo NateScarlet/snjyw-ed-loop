@@ -2,6 +2,8 @@
 
 ![![封面](./footages.gif)](./SNJYW_ed_loop_v3.gif)
 
+[![bilibili](https://img.shields.io/badge/bilibili-av8560301-blue.svg)](https://www.bilibili.com/video/av8560301/)
+
 [![知识共享许可协议-BY-NC-SA](https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png)](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)
 
 [视频文件下载](https://github.com/NateScarlet/snjyw-ed-loop/releases)
