@@ -2,6 +2,8 @@
 
 ![![封面](./footages.gif)](./SNJYW_ed_loop_v3.gif)
 
+[![知识共享许可协议-BY-NC-SA](https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png)](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)
+
 [视频文件下载](https://github.com/NateScarlet/snjyw-ed-loop/releases)
 
 [《Wallpaper Engine》创意工坊物品](http://steamcommunity.com/sharedfiles/filedetails/?id=862333935) 由 B 站 @咸鱼翻面 上传
